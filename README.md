@@ -23,6 +23,7 @@ Also found a page of 100DOMLC from a guy who proposed what u can study on each d
 - email to ask for a chat with professor
 
 **Expectation of tmr**: Do FastAI lesson 2 work (set up web app or something), maybe watch a bit of lesson 3 and of coz, update the 100DOMLC diary
+- but first, clean your desk to even have a chance of making a proper work station
 
 
 ## Day 1 : Jan 28 , 2020
