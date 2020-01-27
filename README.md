@@ -1,4 +1,4 @@
-# 100-days-of-ML-code-challenge?- - LOG
+# 100-days-of-ML-code-challenge? - LOG
 My #100DaysofMLCode?
 
 ## Day 0 : Jan 27 , 2020
