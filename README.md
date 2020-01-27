@@ -10,6 +10,7 @@ My #100DaysofMLCode?
 **Today's Progress** : Not much I guess: reading the Github guide (I never actually knew how to use Github even tho I have had an account since like 2018), setting up this repo as a start (an alright start), tried to open up my old Gcloud instance Jupyter Notebook but failed, realised seems my new laptop (was gonna write has never been set up on the Gcloud thing), but then literally right at this moment as I was writing this page, I remember which terminal I had to use (Ubuntu), pasted the command to try and literally got it to work right now. I am already feeling much better about this lmao. That is a gd introduction day of some sort, but tmr is the real deal I guess, that only if I really start to work seriously tmr I can call that a great start.
 
 **Thoughts** : I figured to really write down every bit of advice to myself that comes to my mind anytime that can motivate myself to work on this or improve the general efficiency of work progress here. Don't slack off and wasted this page again u lazy fucker. 
+
 Also found a page of 100DOMLC from a guy who proposed what u can study on each day, seems worth a peek everyday, link: https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%201_Data%20PreProcessing.md
 
 **Advice of today** :
