@@ -32,5 +32,6 @@ Also found a page of 100DOMLC from a guy who proposed what u can study on each d
 
 **Thoughts** : Met with quite a few challenge with the codes, had some difficulties understanding certain terms and codes but I guessed it worked out. I guess a habit of research like looking at documentation and searching for answers online can go a long way.
 
+**Further thoughts**: curious about how to statistically see the production results of my model, instead of just testing the model with pictures one at a time... Useful to just see the CV loss? Hmm...
 
 **Expectation of tmr**: Finish the web app, and start learning of lesson 3 of FastAI
