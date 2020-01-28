@@ -28,9 +28,9 @@ Also found a page of 100DOMLC from a guy who proposed what u can study on each d
 
 ## Day 1 : Jan 28 , 2020
 
-**Today's Progress** :
+**Today's Progress** : After some 3 hours of efforts, I did my own dataset and trained my own resnet34 model for a tennis/badminton racket distinguisher, according to Lesson 2 of FastAI. Haven't really done the web app part with Render. Also cleaned my desk and printed something useful.
 
-**Thoughts** : 
+**Thoughts** : Met with quite a few challenge with the codes, had some difficulties understanding certain terms and codes but I guessed it worked out. I guess a habit of research like looking at documentation and searching for answers online can go a long way.
 
 
-**Link of Work:**   
+**Expectation of tmr**: Finish the web app, and start learning of lesson 3 of FastAI
