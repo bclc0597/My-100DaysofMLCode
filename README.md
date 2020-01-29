@@ -35,3 +35,12 @@ Also found a page of 100DOMLC from a guy who proposed what u can study on each d
 **Questions**: how to statistically see the production results of my model, instead of just testing the model with pictures one at a time... **Is there a way to test my new model on the previous CV set?** Tried to see CV loss but learn.lr_finder() and learn.recorder.plot_loss() won't work anymore... (Learner Object has no attribute 'lr_finder'/'recorder') hmm...
 
 **Expectation of tmr**: Finish the web app, and start learning of lesson 3 of FastAI
+
+
+## Day 2 : Jan 29 , 2020
+
+**Today's Progress** : Did the Render App thing, took a while to set up the accounts and web service. Still no answer to how to statistically see my model performance yet, even if its on my own CV set. Also watched half an hour of lesson 3, on multi-labels n stuff, a thing is the code on the lesson notebook has been updated and changed a bit and something Jeremy said in video is not there anymore, a bit confusing sometimes.
+
+**Thoughts**: Lesson 4 is on tabular data, which is my primary interest! I wonder if its more difficult by having more different scenarios in different projects? The resnets for photo recognition seems to make image recognition quite easy already. Hope I can learn much from tabular data too, n hope its not that difficult.
+
+**Expectation of tmr**: finish lesson 3 and maybe start working on it
