@@ -48,6 +48,6 @@ Also found a page of 100DOMLC from a guy who proposed what u can study on each d
 ## Day 3 : Jan 30 , 2020
 
 **Today's Progress** : Did a bit more of lesson 3, found myself always pausing the video and checking the notebook and notes, I guess thats not problematic in a learning process (I hope), just finished planet satelite image part. Today was busy, had matches and stuff so didn't spend too much time on it
-**Thoughts**: Jeremy compared his model performance to a Kaggle competition leaderboard, pretty cool, hope I can know how to do that soon and participate in Kaggle competitions with similar topic as those Im interested in.
+**Thoughts**: Jeremy compared his model performance to a Kaggle competition leaderboard, pretty cool, hope I can know how to do that soon and participate in Kaggle competitions with similar topic as those Im interested in. Also figured maybe learner.recorder.plot_losses() can see model loss on CV set plus training set? May solve yesterday's question in mind.
 
 **Expectation of tmr**: for real, finish lesson 3 at least
