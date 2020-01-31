@@ -51,3 +51,18 @@ Also found a page of 100DOMLC from a guy who proposed what u can study on each d
 **Thoughts**: Jeremy compared his model performance to a Kaggle competition leaderboard, pretty cool, hope I can know how to do that soon and participate in Kaggle competitions with similar topic as those Im interested in. Also figured maybe learner.recorder.plot_losses() can see model loss on CV set plus training set? May solve yesterday's question in mind.
 
 **Expectation of tmr**: for real, finish lesson 3 at least
+
+
+## Day 4 : Jan 31 , 2020
+
+**Today's Progress** : Finished lesson 3, introduced to a few concepts that I kinda know but not concretely, did diff image classifications such as image regression, segmentation etc, considering if i should try to do another little work on these topics, or should i just continue to lesson 4 and learn new things. Also learned that sigmoid function is already an outdated activation function, now we use Rectified Linear Unit most of the time for deep learning according to Jeremy.
+**Thoughts**: Learned a cool website, neuralnetworksanddeeplearning.com, reading that page will definitely strengthen my understanding on the concept.
+
+**Expectation of tmr**: consider if should work on lesson 3 or just continue watching lesson 4, hmm
+
+
+## Day 5 : Feb 1 , 2020
+
+**Today's Progress** : 
+**Thoughts**: 
+**Expectation of tmr**:
