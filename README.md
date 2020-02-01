@@ -63,6 +63,6 @@ Also found a page of 100DOMLC from a guy who proposed what u can study on each d
 
 ## Day 5 : Feb 1 , 2020
 
-**Today's Progress** : 
-**Thoughts**: 
-**Expectation of tmr**:
+**Today's Progress** : Did one hour of Lesson 4, reached the half way point for Part 1 of the course, now will dig deeper into the theories and structure. Accidentally deleted the cloud instance, all my notes lost T.T
+**Thoughts**: Jeremy's idea on NN on tabular data is interesting, he said 90% of the time can use NN for Tab data. Pinterest is an example he said, less maintenance, less hand crafted feature too! The usual way of Tab data is by Logistic Regression/ XGBoost/ Random Forest. Also learned about AutoML, e.g. Jeremy used a Random Forest to predict his parameter on the result of his NLP learner, which is sick (even tho he is not a fan of AutoML)
+**Expectation of tmr**: Finish Lesson 4 and see if theres work to follow
