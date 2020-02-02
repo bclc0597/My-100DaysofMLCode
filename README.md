@@ -66,3 +66,10 @@ Also found a page of 100DOMLC from a guy who proposed what u can study on each d
 **Today's Progress** : Did one hour of Lesson 4, reached the half way point for Part 1 of the course, now will dig deeper into the theories and structure. Accidentally deleted the cloud instance, all my notes lost T.T
 **Thoughts**: Jeremy's idea on NN on tabular data is interesting, he said 90% of the time can use NN for Tab data. Pinterest is an example he said, less maintenance, less hand crafted feature too! The usual way of Tab data is by Logistic Regression/ XGBoost/ Random Forest. Also learned about AutoML, e.g. Jeremy used a Random Forest to predict his parameter on the result of his NLP learner, which is sick (even tho he is not a fan of AutoML)
 **Expectation of tmr**: Finish Lesson 4 and see if theres work to follow
+
+
+## Day 6 : Feb 2 , 2020
+
+**Today's Progress** : Finished Lesson 4, plus half of Lesson 5
+**Thoughts**: Things are getting difficult, Lesson 5 starts really going into the codes for the NN, we now supposedly already know how to do everything basics with codes, construct NN/update/forward/gradients/Momentum/matrix multiplication etc. There are many terms that I am not confident about, like what exactly collaborative filtering is about, vector embedding, one hot encoding, how matrix multiplication really whats (is knowing the dimension of outcomes enough?) and many more. Jeremy suggest already try applying these knowledges to solve SGD of Lesson 2 and MNIST of Lesson 5, if I can figure that all out I think that will be a good start for real.
+**Expectation of tmr**: Finish lesson 5 and understand it by doing some work on it.
