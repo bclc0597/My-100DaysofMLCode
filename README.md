@@ -73,3 +73,10 @@ Also found a page of 100DOMLC from a guy who proposed what u can study on each d
 **Today's Progress** : Finished Lesson 4, plus half of Lesson 5
 **Thoughts**: Things are getting difficult, Lesson 5 starts really going into the codes for the NN, we now supposedly already know how to do everything basics with codes, construct NN/update/forward/gradients/Momentum/matrix multiplication etc. There are many terms that I am not confident about, like what exactly collaborative filtering is about, vector embedding, one hot encoding, how matrix multiplication really whats (is knowing the dimension of outcomes enough?) and many more. Jeremy suggest already try applying these knowledges to solve SGD of Lesson 2 and MNIST of Lesson 5, if I can figure that all out I think that will be a good start for real.
 **Expectation of tmr**: Finish lesson 5 and understand it by doing some work on it.
+
+
+## Day 7 : Feb 3 , 2020
+
+**Today's Progress** : Finished Lesson 5, also bc many things r covered I revisited Lesson 4 & 5 from NN structure, collab filtering to tabular, kinda figured out what embedding really is, have some understanding of the terms now
+**Thoughts**: Yet to know and apply whats learned, the codes still look scary and complex, looks like need tons of documentation and debugging when implementing. But lets try implementing the stuff on tab data and also SGD Lesson 2. Is it possible to start doing some tabular data little projects already?
+**Expectation of tmr**: Built NN module or use Optim Pytorch module to implement SGD Lesson 2 and maybe Lesson 5
