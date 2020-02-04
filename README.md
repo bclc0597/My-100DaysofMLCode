@@ -80,3 +80,9 @@ Also found a page of 100DOMLC from a guy who proposed what u can study on each d
 **Today's Progress** : Finished Lesson 5, also bc many things r covered I revisited Lesson 4 & 5 from NN structure, collab filtering to tabular, kinda figured out what embedding really is, have some understanding of the terms now
 **Thoughts**: Yet to know and apply whats learned, the codes still look scary and complex, looks like need tons of documentation and debugging when implementing. But lets try implementing the stuff on tab data and also SGD Lesson 2. Is it possible to start doing some tabular data little projects already?
 **Expectation of tmr**: Built NN module or use Optim Pytorch module to implement SGD Lesson 2 and maybe Lesson 5
+
+## Day 8 : Feb 4 , 2020
+
+**Today's Progress** : Revisited Lesson 5, listened to the lessons again with the printed jupyter notebooks. Understand how the lesson 5 different ways of constructing a NN works now, even though when I try to implement that to Lesson 2 simple GD, some difficulties happen with the data compatibility.
+**Thoughts**: Structure of data seems diverse, need diff structure to do diff ways. numpy(), tensor() etc... Shd I try use different things on MNIST Lesson 5 tmr? Also maybe the machine learning course for coders from Jeremy will help know more about creating compatible databunch?
+**Expectation of tmr**: Decide to do work on Lesson 5 MNIST or not, then start Lesson 6
