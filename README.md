@@ -86,3 +86,9 @@ Also found a page of 100DOMLC from a guy who proposed what u can study on each d
 **Today's Progress** : Revisited Lesson 5, listened to the lessons again with the printed jupyter notebooks. Understand how the lesson 5 different ways of constructing a NN works now, even though when I try to implement that to Lesson 2 simple GD, some difficulties happen with the data compatibility.
 **Thoughts**: Structure of data seems diverse, need diff structure to do diff ways. numpy(), tensor() etc... Shd I try use different things on MNIST Lesson 5 tmr? Also maybe the machine learning course for coders from Jeremy will help know more about creating compatible databunch?
 **Expectation of tmr**: Decide to do work on Lesson 5 MNIST or not, then start Lesson 6
+
+## Day 9 : Feb 5 , 2020
+
+**Today's Progress** : Done half an hour of lesson 6, many terms and little tricks introduced so progress isnt fast
+**Thoughts**: Data pre-processing is not a subject of this course, need to go to Machine Learning for Coders course by Jeremy. I guess this might also answer my doubts on data formats and preparation. Good candidate for next course to study, (or fastai part 2?) Also tabular data seems to have the most basic NN architecture. Also learned about time series, Jeremy said most of the time the state-of-the-art ways to deal with it is to create metadata relating to the Time, so NN will consider them, interesting and less complicated than I imagine.
+**Expectation of tmr**: Do more of lesson 6, if not all of it
