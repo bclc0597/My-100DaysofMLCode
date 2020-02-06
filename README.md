@@ -92,3 +92,10 @@ Also found a page of 100DOMLC from a guy who proposed what u can study on each d
 **Today's Progress** : Done half an hour of lesson 6, many terms and little tricks introduced so progress isnt fast
 **Thoughts**: Data pre-processing is not a subject of this course, need to go to Machine Learning for Coders course by Jeremy. I guess this might also answer my doubts on data formats and preparation. Good candidate for next course to study, (or fastai part 2?) Also tabular data seems to have the most basic NN architecture. Also learned about time series, Jeremy said most of the time the state-of-the-art ways to deal with it is to create metadata relating to the Time, so NN will consider them, interesting and less complicated than I imagine.
 **Expectation of tmr**: Do more of lesson 6, if not all of it
+
+
+## Day 10 : Feb 6 , 2020
+
+**Today's Progress** : Done half of lesson 6, new terms again, mainly on newer ideas of regularization: batch normalization, data augmentation and dropout, will learn more about CNN next half
+**Thoughts**: I discovered that many newly researched/invented techniques are implemented into fastai libraries already, which means using that we can already make decent models with decent results if we know how. Probably should start machine learning for coders by Jeremy too after this course? Deep Learning Specialization uses tensorflow which seems will soon be replaced, hmm...
+**Expectation of tmr**: Finish lesson 6
