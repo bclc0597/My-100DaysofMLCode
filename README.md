@@ -100,3 +100,9 @@ Also found a page of 100DOMLC from a guy who proposed what u can study on each d
 **Thoughts**: I discovered that many newly researched/invented techniques are implemented into fastai libraries already, which means using that we can already make decent models with decent results if we know how. Probably should start machine learning for coders by Jeremy too after this course? Deep Learning Specialization uses tensorflow which seems will soon be replaced, hmm...
 Also my focus & efficiency drops significantly when lacking sleep, should get enough sleep everyday.
 **Expectation of tmr**: Finish lesson 6
+
+## Day 11 : Feb 7 , 2020
+
+**Today's Progress** : Almost finish lesson 6, should have started earlier, getting a bit lazy...
+**Thoughts**: Very technically learned about CNN and what it means by convolution kernel, channels, n many other little terms like padding etc. Basically what resnet34 is in the convo part of model, interesting but isn't really my main interest. I really want to start to know how to handle tab data from start to finish, esp with my thesis coming up soon
+**Expectation of tmr**: Finish lesson 6 for real and see about next steps
