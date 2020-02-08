@@ -106,3 +106,9 @@ Also my focus & efficiency drops significantly when lacking sleep, should get en
 **Today's Progress** : Almost finish lesson 6, should have started earlier, getting a bit lazy...
 **Thoughts**: Very technically learned about CNN and what it means by convolution kernel, channels, n many other little terms like padding etc. Basically what resnet34 is in the convo part of model, interesting but isn't really my main interest. I really want to start to know how to handle tab data from start to finish, esp with my thesis coming up soon
 **Expectation of tmr**: Finish lesson 6 for real and see about next steps
+
+## Day 12 : Feb 8 , 2020
+
+**Today's Progress** : Finished lesson 6, looked around forums and diff post about tabular data, fastai tab learner and tab model
+**Thoughts**: The thing that worries me most is how to get data compatible with my model, but from what i saw online most of the time this ain't a problem even for newbies. Maybe I should just try some Kaggle competitions to test it out. Also I just rmb that Lesson 6 Rossman actually uses Tab Data, and with more in depth guide with some advanced regularization stuff, should revise it I think.
+**Expectation of tmr**: Revise Lesson 6, maybe do a little project.
