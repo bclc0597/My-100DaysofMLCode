@@ -112,3 +112,9 @@ Also my focus & efficiency drops significantly when lacking sleep, should get en
 **Today's Progress** : Finished lesson 6, looked around forums and diff post about tabular data, fastai tab learner and tab model
 **Thoughts**: The thing that worries me most is how to get data compatible with my model, but from what i saw online most of the time this ain't a problem even for newbies. Maybe I should just try some Kaggle competitions to test it out. Also I just rmb that Lesson 6 Rossman actually uses Tab Data, and with more in depth guide with some advanced regularization stuff, should revise it I think.
 **Expectation of tmr**: Revise Lesson 6, maybe do a little project.
+
+## Day 13 : Feb 9 , 2020
+
+**Today's Progress** : Revised previous lessons, read around diff things, look at Kaggle, the Titanic competition, downloaded the dataset and tried working on it in Jupyter notebook. Tried using TabularList but not working, probably too detailed and need more configuration with the codes itself. Used TabularData Bunch the normal one, and seemed to be working. Need to try experimenting with lr and production tmr.
+**Thoughts**: Probably need to do Intro to ML for Coders to handle data better, took me so long to figure the data upload things up. Especially when I accidentally deleted my old notes, and also may need to rewatch lesson 1? 
+**Expectation of tmr**: Finish the Titanic, ask for data sample from the journal website and maybe read a bit more.
