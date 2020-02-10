@@ -118,3 +118,10 @@ Also my focus & efficiency drops significantly when lacking sleep, should get en
 **Today's Progress** : Revised previous lessons, read around diff things, look at Kaggle, the Titanic competition, downloaded the dataset and tried working on it in Jupyter notebook. Tried using TabularList but not working, probably too detailed and need more configuration with the codes itself. Used TabularData Bunch the normal one, and seemed to be working. Need to try experimenting with lr and production tmr.
 **Thoughts**: Probably need to do Intro to ML for Coders to handle data better, took me so long to figure the data upload things up. Especially when I accidentally deleted my old notes, and also may need to rewatch lesson 1? 
 **Expectation of tmr**: Finish the Titanic, ask for data sample from the journal website and maybe read a bit more.
+
+
+## Day 14 : Feb 10 , 2020
+
+**Today's Progress** : Did a bit of ML for coders, but noticed that fastai version is diff n some codes arent compatible with the one im using. Also did the titanic competition, can only achieve an 80% accuracy but seems to also overfit a bit. But I guess thats a start.
+**Thoughts**: Perhaps should find resource to directly learn pytorch? Especially on tab data? Also need to learn about data handling, actually part 2 fastai might just help, hmmm...
+**Expectation of tmr**: Not really sure...
