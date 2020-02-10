@@ -123,6 +123,9 @@ Also my focus & efficiency drops significantly when lacking sleep, should get en
 ## Day 14 : Feb 10 , 2020
 
 **Today's Progress** : Did a bit of ML for coders, but noticed that fastai version is diff n some codes arent compatible with the one im using. Also did the titanic competition, can only achieve an 80% accuracy but seems to also overfit a bit. But I guess thats a start.
+
+![alt text](https://github.com/bclc0597/My-100DaysofMLCode/blob/master/Fastai%20Titanic%20Screenshot.PNG)
+
 **Thoughts**: Perhaps should find resource to directly learn pytorch? Especially on tab data? Also need to learn about data handling, actually part 2 fastai might just help, hmmm...
 
 **Expectation of tmr**: Not really sure...
