@@ -129,3 +129,12 @@ Also my focus & efficiency drops significantly when lacking sleep, should get en
 **Thoughts**: Perhaps should find resource to directly learn pytorch? Especially on tab data? Also need to learn about data handling, actually part 2 fastai might just help, hmmm...
 
 **Expectation of tmr**: Not really sure...
+
+
+## Day 14 : Feb 10 , 2020
+
+**Today's Progress** : Did little bit of lesson 7, didnt have too much progress bc I cant rmb much about the CNN n terms, so I went to print out notes and jupyter notebooks on lesson 6. Schedule is getting busy at school... Also found useful materials & tutorials on Pytorch website, can potentially just start learning there!
+
+**Thoughts**: Also need slides materials from ML8011 can help a lot, need to do also
+
+**Expectation of tmr**: Allocate more time into ML after finishing work at school
