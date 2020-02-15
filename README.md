@@ -131,10 +131,21 @@ Also my focus & efficiency drops significantly when lacking sleep, should get en
 **Expectation of tmr**: Not really sure...
 
 
-## Day 14 : Feb 10 , 2020
+## Day 14 : Feb 11 , 2020
 
 **Today's Progress** : Did little bit of lesson 7, didnt have too much progress bc I cant rmb much about the CNN n terms, so I went to print out notes and jupyter notebooks on lesson 6. Schedule is getting busy at school... Also found useful materials & tutorials on Pytorch website, can potentially just start learning there!
 
 **Thoughts**: Also need slides materials from ML8011 can help a lot, need to do also
+
+**Expectation of tmr**: Allocate more time into ML after finishing work at school
+
+
+## Day 15 : Feb 15 , 2020
+
+**Today's Progress** : Did almost half of lesson 7, I have been taking a break for these few days and I kinda feel bad about it. Facing different kinds of challenge in life at this stage. But anyway, learned about a few state-of-the-art techniques for CNN. Residual learning, U-net etc...
+
+**Thoughts**: Am starting to have an idea what my thesis title should be, since last time when i made a simple NN for tab data it overfits like crazy. Thesis should be how to build a deep learning model on tabular data that outperforms traditional machine learning techniques with horse racing data. Compare & Contrast is a key as the professor says.
+
+**Expectation of tmr**: maybe finish lesson 7? Need to keep going now...
 
 **Expectation of tmr**: Allocate more time into ML after finishing work at school
