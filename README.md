@@ -148,4 +148,16 @@ Also my focus & efficiency drops significantly when lacking sleep, should get en
 
 **Expectation of tmr**: maybe finish lesson 7? Need to keep going now...
 
-**Expectation of tmr**: Allocate more time into ML after finishing work at school
+
+## Day 16 : Feb 16 , 2020
+
+**Today's Progress** : Did a bit more on lesson 7, learned about some new techniques, U-net n stuff
+
+**Expectation of tmr**: maybe finish lesson 7? Need to keep going now...
+
+
+## Day 17 : Feb 17 , 2020
+
+**Today's Progress** : Almost finished lesson 7, now start to learn about RNN, had a nice summary of all the topics we have covered.
+
+**Expectation of tmr**: Finish lesson 7!
