@@ -161,3 +161,12 @@ Also my focus & efficiency drops significantly when lacking sleep, should get en
 **Today's Progress** : Almost finished lesson 7, now start to learn about RNN, had a nice summary of all the topics we have covered.
 
 **Expectation of tmr**: Finish lesson 7!
+
+## Day 18 : Feb 18 , 2020
+
+**Today's Progress** : Finished lesson 7, watched an interview of Jeremy with Github, not technically very interesting but more about the concerns of AI morally speaking. Try to do titanic challenge again, kinda improved accuracy a bit by lowering NN dimension, but accuracy still cannot get past 83% hmmm
+
+
+**Thoughts**: Maybe in dataset like this where data (n) isnt that many (only has ~900 rows) shdnt use dropout?? Also interesting that when using less layers - even up to 20,10 this shallow the recorder.plot() graph kinda rise back up after le = 0. Does that mean it past the optimization point? Also when does it mean when the recorder.plot() graph doesnt seem to go back up, does it mean can still go further downwards? So many questions n as Jeremy says it might be a gd idea to rewatch the lessons...
+
+**Expectation of tmr**: Don't really know, maybe participate in other kaggle tabular competitions, maybe rewatch lessons and make a little bookmark of things learned.
