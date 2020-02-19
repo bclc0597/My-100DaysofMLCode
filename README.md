@@ -170,4 +170,4 @@ Also my focus & efficiency drops significantly when lacking sleep, should get en
 **Thoughts**: Maybe in dataset like this where data (n) isnt that many (only has ~900 rows) shdnt use dropout?? Also interesting that when using less layers - even up to 20,10 this shallow the recorder.plot() graph kinda rise back up after le = 0. Does that mean it past the optimization point? Also when does it mean when the recorder.plot() graph doesnt seem to go back up, does it mean can still go further downwards? So many questions n as Jeremy says it might be a gd idea to rewatch the lessons...
 Also some weird problems: why lr_find() shows no valid_loss? Also why the progress bars in lr_find() never completes?
 
-**Expectation of tmr**: Don't really know, maybe participate in other kaggle tabular competitions, maybe rewatch lessons and make a little bookmark of things learned.
+**Expectation of tmr**: Don't really know, maybe participate in other kaggle tabular competitions, maybe rewatch lessons and make a little bookmark of things learned. Maybe shd also post my first mini project on fastai forums to get ppl to take a look at it, might be fruitful
